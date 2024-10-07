@@ -91,7 +91,7 @@ In this version:
 Stage 1 (Build): Uses the full JDK to build the Java application.
 Stage 2 (Runtime): Uses a lightweight JRE to run the application, resulting in a smaller image.
 
-#5. Build and Run with the Optimized Dockerfile
+# 5. Build and Run with the Optimized Dockerfile
 Follow the same steps to build and run the Docker container but with the optimized Dockerfile:
 
 ```bash
