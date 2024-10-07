@@ -88,7 +88,7 @@ CMD ["java", "-jar", "api.jar"]
 
 In this version:
 
-Stage 1 (Build): Uses the full JDK to build the Java application.
+Stage 1 (Build): Uses the full JDK to build the Java application. <br>
 Stage 2 (Runtime): Uses a lightweight JRE to run the application, resulting in a smaller image.
 
 # 5. Build and Run with the Optimized Dockerfile
